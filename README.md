@@ -1,6 +1,6 @@
 # Personal Website Repository
 
-This repository contains the code used to generate my personal website (in Portuguese): icn-sousa.github.io/
+This repository contains the code used to generate my personal website (in Portuguese): [icn-sousa.github.io/](https://icn-sousa.github.io/)
 
 I utilized [Quarto](https://quarto.org/) to built the website. If you're interested in creating a website with Quarto, check out the official [documentation](https://quarto.org/docs/websites/).
 
