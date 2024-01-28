@@ -2,19 +2,45 @@ project:
   type: website
   output-dir: docs
 
+execute:
+  freeze: auto
+
+language: 
+  search-box-placeholder: Search
+
 website:
-  title: "icn-sousa.github.io"
+  page-navigation: true
+  title: "Isabel Cristina Nunes de Sousa"
+  image: profile.jpg
+
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: "Sobre"
+        file: index.qmd
+      - text: "Publicações"
+        file: publications.qmd
+      - text: "CV"
+        file: cv.qmd
+
+  search: 
+    location: navbar
+    type: overlay
+
+  page-footer: 
+    left: "Website made with [Quarto](https://quarto.org/), by Isabel Cristina Nunes de Sousa." 
+    right: 
+      - icon: github
+        href: https://github.com/icn-sousa
+      - icon: linkedin 
+        href: https://linkedin.com/in/isabel-sousa
+      - icon: envelope
+        href: mailto:icn.sousa@outlook.com
+  back-to-top-navigation: true
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme:
+      light: "yeti"
+      dark: "solar"
+    css: "styles.css"
     toc: true
-
-
-

@@ -1,0 +1,47 @@
+---
+title: "Publicações"
+comments: false
+about:
+  template: marquee
+#  image: profile.jpg
+#  image-width: 10em
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/icn-sousa
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/isabel-sousa
+    - icon: envelope
+      text: E-mail
+      href: mailto:icn.sousa@outlook.com
+
+---
+
+[Perspectivas de gênero no uso dos meios de transporte e na percepção sobre as condições de mobilidade urbana](http://revistascientificas.filo.uba.ar/index.php/rtt/article/view/10795/11486) | **Isabel Cristina Nunes de Sousa**, Renata Bovo Peres | Revista Transporte Y Territorio, issue 28, 2023, pp. 142-168.
+
+[Agenda 21 Local: alternativa para ampliar a participação e a articulação cidadã](http://www.ucs.br/etc/revistas/index.php/direitoambiental/article/
+view/10011) | Celso Maran de Oliveira, **Isabel Cristina Nunes de Sousa** | Revista Direito Ambiental e Sociedade, vol. 13(1), 2023, p. 19.
+
+[Proposição de diretrizes para a política de gestão de resíduos sólidos de uma universidade pública brasileira](https://revistas.unlp.edu.ar/domus/article/view/15911/15115) | Ana Cristina Bagatini Marotti, Cristine Diniz Santiago, **Isabel Cristina Nunes de Sousa**, Mendelson Aleixo e Silva, Roberta Sanches, Erica Pugliesi | AUGM DOMUS, vol. 10, 2023, pp. e005.
+
+[Local government shift and national housing program: Spatial repercussions on urban growth](https://doi.org/10.1016/j.landusepol.2023.106548) | Ivan Damasco Menzori, **Isabel Cristina Nunes de Sousa**, Luciana Márcia Gonçalves | Land Use Policy, vol. 126, 2023, p. 106548
+
+[Conflitualidade ambiental em São Carlos/SP: mapeamento como diagnóstico e subsídio ao planejamento de políticas públicas municipais](https://www.e-publicacoes.uerj.br/rdc/article/view/46543/39678) | **Isabel Cristina Nunes de Sousa**, Celso Maran de Oliveira | Revista de Direito da Cidade, vol. 13(3), 2021, pp. 1393-1421.
+
+[Urbanização sustentável: métricas espaciais e tipologias de crescimento](https://seer.ufu.br/index.php/caminhosdegeografia/article/view/56557/33097) | **Isabel Cristina Nunes de Sousa**, Ivan Damasco Menzori, Roberto Braga | Caminhos de Geografia, vol. 22(84), 2021, pp. 36-55.
+
+[Urban growth management and territorial governance approaches: A master plans conformance analysis](https://doi.org/10.1016/j.landusepol.2021.105436) | Ivan Damasco Menzori, **Isabel Cristina Nunes de Sousa**, Luciana Márcia Gonçalves | Land Use Policy, vol. 105, 2021, p. 105436.
+
+[O direito à natureza versus os direitos da natureza: biocentrismo como alternativa ao utilitarismo antropocêntrico](https://periodicos.unifap.br/index.php/pracs/article/view/6800) | **Isabel Cristina Nunes de Sousa** | PRACS: REVISTA ELETRÔNICA DE HUMANIDADES DO CURSO DE CIÊNCIAS SOCIAIS DA UNIFAP, v. 14, p. 437-440, 2021. 
+
+[Habitação de Interesse Social e o Minha Casa Minha Vida – faixa 1: questão ambiental na produção habitacional](https://doi.org/10.1590/2175-
+3369.012.e20190312) | **Isabel Cristina Nunes de Sousa**, Roberto Braga | urbe. Revista Brasileira de Gestão Urbana, vol. 12, 2020, pp. e20190312.
+
+[Conflitos fundiários urbanos e a ocupação “Pinheirinho”: acesso à moradia e remoção forçada](https://doi.org/10.1590/2175-3369.011.e20170157) | **Isabel Cristina Nunes de Sousa**, Carolina Maria Pozzi de Castro | urbe. Revista Brasileira de Gestão Urbana, vol. 11(e20170157), 2019.
+
+[Fatores influentes na escolha de rota dos ciclistas](https://www.scielo.cl/pdf/eure/v45n134/0717-6236-eure-45-134-0031.pdf) | **Isabel Cristina Nunes de Sousa**, Suely da Penha Sanches | EURE (Santiago), vol. 45(134), 2019, pp. 31-52.
+
+[Direito à participação nas políticas urbanísticas: avanços após 15 anos de estatuto da cidade](https://doi.org/10.1590/2175-3369.010.002.AO04) | Celso Maran de Oliveira, Dulce Lopes, **Isabel Cristina Nunes de Sousa** | urbe. Revista Brasileira de Gestão Urbana, vol. 10(2), 2018, pp. 322-334.
+
+[Proposta metodológica para a análise de áreas verdes: adequações à legislação e à qualidade de vida urbana](https://periodicos.ufpe.br/revistas/index.php/rbgfe/article/view/233845/pdf) | Nícolas Guerra Rodrigues Tão, Alexandre da Silva Faustino, **Isabel Cristina Nunes de Sousa**, Renata Bovo Peres, Luiz Eduardo Moschini | Revista Brasileira de Geografia Física, vol. 9(6), 2016, pp. 1910-1927.

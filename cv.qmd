@@ -1,0 +1,76 @@
+---
+title: "Curriculum Vitae"
+comments: false
+about:
+  template: solana
+#  image: profile.jpg
+#  image-width: 10em
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/icn-sousa
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/isabel-sousa
+    - icon: envelope
+      text: E-mail
+      href: mailto:icn.sousa@outlook.com
+
+---
+
+## Experiência profissional
+
+2023 - atual | freeCodeCamp | Voluntária | Tradução de tutoriais do Inglês (EUA) para o Português (BR).
+
+mar – ago 2022 | Unesp/DGPA | Professora Substituta | Docente na disciplina de Quantificação em Geografia para as turmas integral e noturno da Graduação em Geografia.
+
+2020 – 2022 | Menzori Engenharia e Agrimensura Ltda | Assistente de projetos | Elaboração de plano de rotas viárias urbanas (SIG) e auxílio na formatação de projetos digitais (CAD). 
+
+2018 – 2019 | UFSCar/PPGCAm | Analista ambiental | Contribuição para emissão de parecer técnico referente à atividade minerária.
+
+2017 – 2018 | UFSCar/PPGCAm | Analista de dados | Coleta, tabulação, tratamento e análise estatística descritiva de dados provenientes de documentos e processos judiciais de órgãos públicos (CETESB, SMA/CFA, MPE, dentre outros).
+
+## Formação acadêmica
+
+2023 – 2024 | USP - Instituto de Ciências Matemáticas e de Computação (ICMC) | MBA em Ciência de Dados
+
+2019 – 2023 |  Unesp - Instituto de Geociências e Ciências Exatas (IGCE) | Doutorado em Geografia
+
+2015 – 2017 | UFSCar - Centro de Ciências Exatas e de Tecnologia (CCET) | Mestrado em Engenharia Urbana
+
+2011 – 2014 | UFSCar - Departamento de Ciências Ambientais (DCAm) | Bacharelado em Gestao e Análise Ambiental
+
+## Habilidades
+
+### Idiomas
+
+- Inglês (avançado)
+
+- Espanhol (basico a intermediário)
+
+### Programacão
+
+R (tidyverse, ggplot2, shiny)
+
+Python (numpy, scipy, pandas, geopandas, polars, scikit-learn, matplotlib, seaborn, plotly, pyspark).
+
+### Ciência de Dados
+
+Coleta, tratamento, analise exploratórria e visualização de dados, estatística descritiva e inferencial, aprendizado supervisionado (classificação e regressão), aprendizado não supervisionado (*clustering*).
+
+### Cursos
+
+2024 — Advanced SQL (Kaggle)
+
+2024 — Intro do SQL (Kaggle)
+
+2023 — Data Analysis with Python (freeCodeCamp)
+
+2021 — Python para Processamento de Linguagem Natural (ICMC/USP)
+
+2020 — R Programming - Johns Hopkins University (Coursera)
+
+2020 — Quantitative Methods - University of Amsterdam (Coursera)
+
+2015 - 2016 — Curso de Atualização: Introdução ao QGIS (UFSCar)
+

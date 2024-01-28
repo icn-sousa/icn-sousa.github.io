@@ -1,7 +1,28 @@
 ---
-title: "icn-sousa.github.io"
+title: "Isabel Cristina Nunes de Sousa"
+image: profile.JPG
+toc: false
+about: 
+  template: trestles
+  image-width: 15em
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/icn-sousa
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/isabel-sousa
+    - icon: envelope
+      text: E-mail
+      href: mailto:icn.sousa@outlook.com
 ---
+        
+Olá, meu nome é Isabel Cristina Nunes de Sousa. Sou formada em [Gestão e Análise Ambiental](https://www.gestaoambiental.ufscar.br/), com Mestrado em [Engenharia Urbana](https://www.ppgeu.ufscar.br/pt-br) e Doutorado em [Geografia](https://igce.rc.unesp.br/#!/pos-graduacao/programas-de-pos/geografia/). Já trabalhei como analista de dados, analista ambiental, assistente de projetos e professora substituta. 
 
-This is a Quarto website.
+Em minhas experiências profissionais desenvolvi as seguintes atividades:
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+- Automação de processos e rotinas via linguagem de programação (Python).
+- Análises estatísticas descritivas e inferenciais de dados estruturados e geoespaciais (Python | R | QGIS).
+- Elaboração de pareceres e relatórios técnico-científicos ambientais.
+
+Atualmente estou finalizando um [MBA em Ciência de Dados](https://cemeai.icmc.usp.br/MBA/) e aprendendo sobre [Sensoriamento Remoto Baseado em Nuvem (SRBN) com o Google Earth Engine (GEE)](https://www.eefabook.org/), além de atuar como tradutora voluntária de tutoriais para o [freeCodeCamp.org](https://www.freecodecamp.org/)
