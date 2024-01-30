@@ -56,7 +56,7 @@ Python (numpy, scipy, pandas, geopandas, polars, scikit-learn, matplotlib, seabo
 
 ### Ciência de Dados
 
-Coleta, tratamento, analise exploratórria e visualização de dados, estatística descritiva e inferencial, aprendizado supervisionado (classificação e regressão), aprendizado não supervisionado (*clustering*).
+Coleta, tratamento, analise exploratória e visualização de dados, estatística descritiva e inferencial, aprendizado supervisionado (classificação e regressão), aprendizado não supervisionado (*clustering*).
 
 ### Cursos
 
