@@ -32,14 +32,7 @@
     "href": "cv.html#habilidades",
     "title": "Curriculum Vitae",
     "section": "Habilidades",
-    "text": "Habilidades\n\nIdiomas\n\nInglês (avançado)\nEspanhol (basico a intermediário)\n\n\n\nProgramacão\nR (tidyverse, ggplot2, shiny)\nPython (numpy, scipy, pandas, geopandas, polars, scikit-learn, matplotlib, seaborn, plotly, pyspark).\n\n\nCiência de Dados\nColeta, tratamento, analise exploratórria e visualização de dados, estatística descritiva e inferencial, aprendizado supervisionado (classificação e regressão), aprendizado não supervisionado (clustering).\n\n\nCursos\n2024 — Advanced SQL (Kaggle)\n2024 — Intro do SQL (Kaggle)\n2023 — Data Analysis with Python (freeCodeCamp)\n2021 — Python para Processamento de Linguagem Natural (ICMC/USP)\n2020 — R Programming - Johns Hopkins University (Coursera)\n2020 — Quantitative Methods - University of Amsterdam (Coursera)\n2015 - 2016 — Curso de Atualização: Introdução ao QGIS (UFSCar)"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n\n\n Back to top"
+    "text": "Habilidades\n\nIdiomas\n\nInglês (avançado)\nEspanhol (basico a intermediário)\n\n\n\nProgramacão\nR (tidyverse, ggplot2, shiny)\nPython (numpy, scipy, pandas, geopandas, polars, scikit-learn, matplotlib, seaborn, plotly, pyspark).\n\n\nCiência de Dados\nColeta, tratamento, analise exploratória e visualização de dados, estatística descritiva e inferencial, aprendizado supervisionado (classificação e regressão), aprendizado não supervisionado (clustering).\n\n\nCursos\n2024 — Advanced SQL (Kaggle)\n2024 — Intro do SQL (Kaggle)\n2023 — Data Analysis with Python (freeCodeCamp)\n2021 — Python para Processamento de Linguagem Natural (ICMC/USP)\n2020 — R Programming - Johns Hopkins University (Coursera)\n2020 — Quantitative Methods - University of Amsterdam (Coursera)\n2015 - 2016 — Curso de Atualização: Introdução ao QGIS (UFSCar)"
   },
   {
     "objectID": "index.html",
