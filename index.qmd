@@ -17,12 +17,8 @@ about:
       href: mailto:icn.sousa@outlook.com
 ---
         
-Olá, meu nome é Isabel Cristina Nunes de Sousa. Sou formada em [Gestão e Análise Ambiental](https://www.gestaoambiental.ufscar.br/), com Mestrado em [Engenharia Urbana](https://www.ppgeu.ufscar.br/pt-br) e Doutorado em [Geografia](https://igce.rc.unesp.br/#!/pos-graduacao/programas-de-pos/geografia/). Já trabalhei como analista de dados, analista ambiental, assistente de projetos e professora substituta. 
+Com experiência comprovada como analista de dados, recentemente concluí um MBA em Ciência de Dados pela USP, consolidando meus conhecimentos em temas como Aprendizado de Máquina (*Machine Learning*) supervisionado e não supervisionado.
 
-Em minhas experiências profissionais desenvolvi as seguintes atividades:
+Gosto de programação pela versatilidade de alcançar um mesmo objetivo de diversas maneiras e pela possibilidade de aliar criatividade à solução de problemas.
 
-- Automação de processos e rotinas via linguagem de programação (Python).
-- Análises estatísticas descritivas e inferenciais de dados estruturados e geoespaciais (Python | R | QGIS).
-- Elaboração de pareceres e relatórios técnico-científicos ambientais.
-
-Atualmente estou finalizando um [MBA em Ciência de Dados](https://cemeai.icmc.usp.br/MBA/) e aprendendo sobre [Sensoriamento Remoto Baseado em Nuvem (SRBN) com o Google Earth Engine (GEE)](https://www.eefabook.org/), além de atuar como tradutora voluntária de tutoriais para o [freeCodeCamp.org](https://www.freecodecamp.org/)
+Ajudo pessoas e empresas a encontrar oportunidades para otimizar processos, simplificando e automatizando tarefas e rotinas.

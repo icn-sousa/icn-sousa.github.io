@@ -18,28 +18,6 @@ about:
 
 ---
 
-## Experiência profissional
-
-2023 - atual | freeCodeCamp | Voluntária | Tradução de tutoriais do Inglês (EUA) para o Português (BR).
-
-mar – ago 2022 | Unesp/DGPA | Professora Substituta | Docente na disciplina de Quantificação em Geografia para as turmas integral e noturno da Graduação em Geografia.
-
-2020 – 2022 | Menzori Engenharia e Agrimensura Ltda | Assistente de projetos | Elaboração de plano de rotas viárias urbanas (SIG) e auxílio na formatação de projetos digitais (CAD). 
-
-2018 – 2019 | UFSCar/PPGCAm | Analista ambiental | Contribuição para emissão de parecer técnico referente à atividade minerária.
-
-2017 – 2018 | UFSCar/PPGCAm | Analista de dados | Coleta, tabulação, tratamento e análise estatística descritiva de dados provenientes de documentos e processos judiciais de órgãos públicos (CETESB, SMA/CFA, MPE, dentre outros).
-
-## Formação acadêmica
-
-2023 – 2024 | USP - Instituto de Ciências Matemáticas e de Computação (ICMC) | MBA em Ciência de Dados
-
-2019 – 2023 |  Unesp - Instituto de Geociências e Ciências Exatas (IGCE) | Doutorado em Geografia
-
-2015 – 2017 | UFSCar - Centro de Ciências Exatas e de Tecnologia (CCET) | Mestrado em Engenharia Urbana
-
-2011 – 2014 | UFSCar - Departamento de Ciências Ambientais (DCAm) | Bacharelado em Gestao e Análise Ambiental
-
 ## Habilidades
 
 ### Idiomas
@@ -56,7 +34,7 @@ Python (numpy, scipy, pandas, geopandas, polars, scikit-learn, matplotlib, seabo
 
 ### Ciência de Dados
 
-Coleta, tratamento, análise exploratória e visualização de dados, estatística descritiva e inferencial, aprendizado supervisionado (classificação e regressão), aprendizado não supervisionado (*clustering*).
+Coleta, tratamento, análise exploratória e visualização de dados, estatística descritiva e inferencial, aprendizado supervisionado (classificação e regressão) e não supervisionado (*clustering*).
 
 ### Cursos
 
@@ -73,4 +51,26 @@ Coleta, tratamento, análise exploratória e visualização de dados, estatísti
 2020 — Quantitative Methods - University of Amsterdam (Coursera)
 
 2015 - 2016 — Curso de Atualização: Introdução ao QGIS (UFSCar)
+
+## Experiência profissional
+
+2023 - atual | freeCodeCamp | Tradutora de tutoriais de análise de dados e programação em Python | Tradução de tutoriais do Inglês (EUA) para o Português (BR).
+
+mar – ago 2022 | Unesp/DGPA | Professora substituta de Estatística | Docente na disciplina de Quantificação em Geografia para as turmas integral e noturno da Graduação em Geografia.
+
+2020 – 2022 | Menzori Engenharia e Agrimensura Ltda | Assistente de automação de projetos | Elaboração de plano de rotas viárias urbanas (SIG) e auxílio na formatação de projetos digitais (CAD). 
+
+2018 – 2019 | UFSCar/PPGCAm | Analista ambiental | Contribuição para emissão de parecer técnico referente à atividade minerária.
+
+2017 – 2018 | UFSCar/PPGCAm | Analista de dados | Coleta, tabulação, tratamento e análise estatística descritiva de dados provenientes de documentos e processos judiciais de órgãos públicos (CETESB, SMA/CFA, MPE, dentre outros).
+
+## Formação acadêmica
+
+2023 – 2024 | USP - Instituto de Ciências Matemáticas e de Computação (ICMC) | MBA em Ciência de Dados
+
+2019 – 2023 |  Unesp - Instituto de Geociências e Ciências Exatas (IGCE) | Doutorado em Geografia
+
+2015 – 2017 | UFSCar - Centro de Ciências Exatas e de Tecnologia (CCET) | Mestrado em Engenharia Urbana
+
+2011 – 2014 | UFSCar - Departamento de Ciências Ambientais (DCAm) | Bacharelado em Gestao e Análise Ambiental
 

@@ -11,14 +11,21 @@
     "href": "cv.html",
     "title": "Curriculum Vitae",
     "section": "",
-    "text": "2023 - atual | freeCodeCamp | Voluntária | Tradução de tutoriais do Inglês (EUA) para o Português (BR).\nmar – ago 2022 | Unesp/DGPA | Professora Substituta | Docente na disciplina de Quantificação em Geografia para as turmas integral e noturno da Graduação em Geografia.\n2020 – 2022 | Menzori Engenharia e Agrimensura Ltda | Assistente de projetos | Elaboração de plano de rotas viárias urbanas (SIG) e auxílio na formatação de projetos digitais (CAD).\n2018 – 2019 | UFSCar/PPGCAm | Analista ambiental | Contribuição para emissão de parecer técnico referente à atividade minerária.\n2017 – 2018 | UFSCar/PPGCAm | Analista de dados | Coleta, tabulação, tratamento e análise estatística descritiva de dados provenientes de documentos e processos judiciais de órgãos públicos (CETESB, SMA/CFA, MPE, dentre outros)."
+    "text": "Inglês (avançado)\nEspanhol (básico a intermediário)\n\n\n\n\nR (tidyverse, ggplot2, shiny)\nPython (numpy, scipy, pandas, geopandas, polars, scikit-learn, matplotlib, seaborn, plotly, pyspark).\n\n\n\nColeta, tratamento, análise exploratória e visualização de dados, estatística descritiva e inferencial, aprendizado supervisionado (classificação e regressão) e não supervisionado (clustering).\n\n\n\n2024 — Advanced SQL (Kaggle)\n2024 — Intro do SQL (Kaggle)\n2023 — Data Analysis with Python (freeCodeCamp)\n2021 — Python para Processamento de Linguagem Natural (ICMC/USP)\n2020 — R Programming - Johns Hopkins University (Coursera)\n2020 — Quantitative Methods - University of Amsterdam (Coursera)\n2015 - 2016 — Curso de Atualização: Introdução ao QGIS (UFSCar)"
+  },
+  {
+    "objectID": "cv.html#habilidades",
+    "href": "cv.html#habilidades",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Inglês (avançado)\nEspanhol (básico a intermediário)\n\n\n\n\nR (tidyverse, ggplot2, shiny)\nPython (numpy, scipy, pandas, geopandas, polars, scikit-learn, matplotlib, seaborn, plotly, pyspark).\n\n\n\nColeta, tratamento, análise exploratória e visualização de dados, estatística descritiva e inferencial, aprendizado supervisionado (classificação e regressão) e não supervisionado (clustering).\n\n\n\n2024 — Advanced SQL (Kaggle)\n2024 — Intro do SQL (Kaggle)\n2023 — Data Analysis with Python (freeCodeCamp)\n2021 — Python para Processamento de Linguagem Natural (ICMC/USP)\n2020 — R Programming - Johns Hopkins University (Coursera)\n2020 — Quantitative Methods - University of Amsterdam (Coursera)\n2015 - 2016 — Curso de Atualização: Introdução ao QGIS (UFSCar)"
   },
   {
     "objectID": "cv.html#experiência-profissional",
     "href": "cv.html#experiência-profissional",
     "title": "Curriculum Vitae",
-    "section": "",
-    "text": "2023 - atual | freeCodeCamp | Voluntária | Tradução de tutoriais do Inglês (EUA) para o Português (BR).\nmar – ago 2022 | Unesp/DGPA | Professora Substituta | Docente na disciplina de Quantificação em Geografia para as turmas integral e noturno da Graduação em Geografia.\n2020 – 2022 | Menzori Engenharia e Agrimensura Ltda | Assistente de projetos | Elaboração de plano de rotas viárias urbanas (SIG) e auxílio na formatação de projetos digitais (CAD).\n2018 – 2019 | UFSCar/PPGCAm | Analista ambiental | Contribuição para emissão de parecer técnico referente à atividade minerária.\n2017 – 2018 | UFSCar/PPGCAm | Analista de dados | Coleta, tabulação, tratamento e análise estatística descritiva de dados provenientes de documentos e processos judiciais de órgãos públicos (CETESB, SMA/CFA, MPE, dentre outros)."
+    "section": "Experiência profissional",
+    "text": "Experiência profissional\n2023 - atual | freeCodeCamp | Tradutora de tutoriais de análise de dados e programação em Python | Tradução de tutoriais do Inglês (EUA) para o Português (BR).\nmar – ago 2022 | Unesp/DGPA | Professora substituta de Estatística | Docente na disciplina de Quantificação em Geografia para as turmas integral e noturno da Graduação em Geografia.\n2020 – 2022 | Menzori Engenharia e Agrimensura Ltda | Assistente de automação de projetos | Elaboração de plano de rotas viárias urbanas (SIG) e auxílio na formatação de projetos digitais (CAD).\n2018 – 2019 | UFSCar/PPGCAm | Analista ambiental | Contribuição para emissão de parecer técnico referente à atividade minerária.\n2017 – 2018 | UFSCar/PPGCAm | Analista de dados | Coleta, tabulação, tratamento e análise estatística descritiva de dados provenientes de documentos e processos judiciais de órgãos públicos (CETESB, SMA/CFA, MPE, dentre outros)."
   },
   {
     "objectID": "cv.html#formação-acadêmica",
@@ -28,17 +35,10 @@
     "text": "Formação acadêmica\n2023 – 2024 | USP - Instituto de Ciências Matemáticas e de Computação (ICMC) | MBA em Ciência de Dados\n2019 – 2023 | Unesp - Instituto de Geociências e Ciências Exatas (IGCE) | Doutorado em Geografia\n2015 – 2017 | UFSCar - Centro de Ciências Exatas e de Tecnologia (CCET) | Mestrado em Engenharia Urbana\n2011 – 2014 | UFSCar - Departamento de Ciências Ambientais (DCAm) | Bacharelado em Gestao e Análise Ambiental"
   },
   {
-    "objectID": "cv.html#habilidades",
-    "href": "cv.html#habilidades",
-    "title": "Curriculum Vitae",
-    "section": "Habilidades",
-    "text": "Habilidades\n\nIdiomas\n\nInglês (avançado)\nEspanhol (básico a intermediário)\n\n\n\nProgramacão\nR (tidyverse, ggplot2, shiny)\nPython (numpy, scipy, pandas, geopandas, polars, scikit-learn, matplotlib, seaborn, plotly, pyspark).\n\n\nCiência de Dados\nColeta, tratamento, análise exploratória e visualização de dados, estatística descritiva e inferencial, aprendizado supervisionado (classificação e regressão), aprendizado não supervisionado (clustering).\n\n\nCursos\n2024 — Advanced SQL (Kaggle)\n2024 — Intro do SQL (Kaggle)\n2023 — Data Analysis with Python (freeCodeCamp)\n2021 — Python para Processamento de Linguagem Natural (ICMC/USP)\n2020 — R Programming - Johns Hopkins University (Coursera)\n2020 — Quantitative Methods - University of Amsterdam (Coursera)\n2015 - 2016 — Curso de Atualização: Introdução ao QGIS (UFSCar)"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Isabel Cristina Nunes de Sousa",
     "section": "",
-    "text": "Olá, meu nome é Isabel Cristina Nunes de Sousa. Sou formada em Gestão e Análise Ambiental, com Mestrado em Engenharia Urbana e Doutorado em Geografia. Já trabalhei como analista de dados, analista ambiental, assistente de projetos e professora substituta.\nEm minhas experiências profissionais desenvolvi as seguintes atividades:\n\nAutomação de processos e rotinas via linguagem de programação (Python).\nAnálises estatísticas descritivas e inferenciais de dados estruturados e geoespaciais (Python | R | QGIS).\nElaboração de pareceres e relatórios técnico-científicos ambientais.\n\nAtualmente estou finalizando um MBA em Ciência de Dados e aprendendo sobre Sensoriamento Remoto Baseado em Nuvem (SRBN) com o Google Earth Engine (GEE), além de atuar como tradutora voluntária de tutoriais para o freeCodeCamp.org\n\n\n Back to top"
+    "text": "Com experiência comprovada como analista de dados, recentemente concluí um MBA em Ciência de Dados pela USP, consolidando meus conhecimentos em temas como Aprendizado de Máquina (Machine Learning) supervisionado e não supervisionado.\nGosto de programação pela versatilidade de alcançar um mesmo objetivo de diversas maneiras e pela possibilidade de aliar criatividade à solução de problemas.\nAjudo pessoas e empresas a encontrar oportunidades para otimizar processos, simplificando e automatizando tarefas e rotinas.\n\n\n Back to top"
   }
 ]
