@@ -20,21 +20,14 @@ about:
 
 ## Habilidades
 
-### Idiomas
+QGIS, Sensoriamento Remoto Baseado em Nuvem (Google Earth Engine - GEE)
 
-- Inglês (avançado)
+Python: statsmodels, scipy, numpy, pandas, geopandas, polars, scikit-learn, matplotlib, seaborn, plotly, pyspark, tensorflow.
 
-- Espanhol (básico a intermediário)
+R: Tidyverse, ggplot2, Shiny, R markdown.
 
-### Programacão
+Git, Jupyter, LaTeX, SQL (Google BigQuery), Quarto
 
-R (tidyverse, ggplot2, shiny)
-
-Python (numpy, scipy, pandas, geopandas, polars, scikit-learn, matplotlib, seaborn, plotly, pyspark).
-
-### Ciência de Dados
-
-Coleta, tratamento, análise exploratória e visualização de dados, estatística descritiva e inferencial, aprendizado supervisionado (classificação e regressão) e não supervisionado (*clustering*).
 
 ### Cursos
 
@@ -50,7 +43,8 @@ Coleta, tratamento, análise exploratória e visualização de dados, estatísti
 
 2020 — Quantitative Methods - University of Amsterdam (Coursera)
 
-2015 - 2016 — Curso de Atualização: Introdução ao QGIS (UFSCar)
+2015 - 2016 — Introdução ao QGIS (UFSCar)
+
 
 ## Experiência profissional
 
@@ -62,7 +56,15 @@ mar – ago 2022 | Unesp/DGPA | Professora substituta de Estatística | Docente 
 
 2018 – 2019 | UFSCar/PPGCAm | Analista ambiental | Contribuição para emissão de parecer técnico referente à atividade minerária.
 
-2017 – 2018 | UFSCar/PPGCAm | Analista de dados | Coleta, tabulação, tratamento e análise estatística descritiva de dados provenientes de documentos e processos judiciais de órgãos públicos (CETESB, SMA/CFA, MPE, dentre outros).
+2017 – 2018 | UFSCar/PPGCAm | Analista de dados | Coleta, tabulação, tratamento e análise estatística descritiva de dados provenientes de documentos e processos judiciais de órgãos públicos (CETESB, SMA/CFA, MPE, dentre outros). Elaboração de mapas temáticos.
+
+
+## Idiomas
+
+Inglês (avançado)
+
+Espanhol (básico a intermediário)
+
 
 ## Formação acadêmica
 

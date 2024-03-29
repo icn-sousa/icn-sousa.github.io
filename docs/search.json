@@ -11,21 +11,28 @@
     "href": "cv.html",
     "title": "Curriculum Vitae",
     "section": "",
-    "text": "Inglês (avançado)\nEspanhol (básico a intermediário)\n\n\n\n\nR (tidyverse, ggplot2, shiny)\nPython (numpy, scipy, pandas, geopandas, polars, scikit-learn, matplotlib, seaborn, plotly, pyspark).\n\n\n\nColeta, tratamento, análise exploratória e visualização de dados, estatística descritiva e inferencial, aprendizado supervisionado (classificação e regressão) e não supervisionado (clustering).\n\n\n\n2024 — Advanced SQL (Kaggle)\n2024 — Intro do SQL (Kaggle)\n2023 — Data Analysis with Python (freeCodeCamp)\n2021 — Python para Processamento de Linguagem Natural (ICMC/USP)\n2020 — R Programming - Johns Hopkins University (Coursera)\n2020 — Quantitative Methods - University of Amsterdam (Coursera)\n2015 - 2016 — Curso de Atualização: Introdução ao QGIS (UFSCar)"
+    "text": "QGIS, Sensoriamento Remoto Baseado em Nuvem (Google Earth Engine - GEE)\nPython: statsmodels, scipy, numpy, pandas, geopandas, polars, scikit-learn, matplotlib, seaborn, plotly, pyspark, tensorflow.\nR: Tidyverse, ggplot2, Shiny, R markdown.\nGit, Jupyter, LaTeX, SQL (Google BigQuery), Quarto\n\n\n2024 — Advanced SQL (Kaggle)\n2024 — Intro do SQL (Kaggle)\n2023 — Data Analysis with Python (freeCodeCamp)\n2021 — Python para Processamento de Linguagem Natural (ICMC/USP)\n2020 — R Programming - Johns Hopkins University (Coursera)\n2020 — Quantitative Methods - University of Amsterdam (Coursera)\n2015 - 2016 — Introdução ao QGIS (UFSCar)"
   },
   {
     "objectID": "cv.html#habilidades",
     "href": "cv.html#habilidades",
     "title": "Curriculum Vitae",
     "section": "",
-    "text": "Inglês (avançado)\nEspanhol (básico a intermediário)\n\n\n\n\nR (tidyverse, ggplot2, shiny)\nPython (numpy, scipy, pandas, geopandas, polars, scikit-learn, matplotlib, seaborn, plotly, pyspark).\n\n\n\nColeta, tratamento, análise exploratória e visualização de dados, estatística descritiva e inferencial, aprendizado supervisionado (classificação e regressão) e não supervisionado (clustering).\n\n\n\n2024 — Advanced SQL (Kaggle)\n2024 — Intro do SQL (Kaggle)\n2023 — Data Analysis with Python (freeCodeCamp)\n2021 — Python para Processamento de Linguagem Natural (ICMC/USP)\n2020 — R Programming - Johns Hopkins University (Coursera)\n2020 — Quantitative Methods - University of Amsterdam (Coursera)\n2015 - 2016 — Curso de Atualização: Introdução ao QGIS (UFSCar)"
+    "text": "QGIS, Sensoriamento Remoto Baseado em Nuvem (Google Earth Engine - GEE)\nPython: statsmodels, scipy, numpy, pandas, geopandas, polars, scikit-learn, matplotlib, seaborn, plotly, pyspark, tensorflow.\nR: Tidyverse, ggplot2, Shiny, R markdown.\nGit, Jupyter, LaTeX, SQL (Google BigQuery), Quarto\n\n\n2024 — Advanced SQL (Kaggle)\n2024 — Intro do SQL (Kaggle)\n2023 — Data Analysis with Python (freeCodeCamp)\n2021 — Python para Processamento de Linguagem Natural (ICMC/USP)\n2020 — R Programming - Johns Hopkins University (Coursera)\n2020 — Quantitative Methods - University of Amsterdam (Coursera)\n2015 - 2016 — Introdução ao QGIS (UFSCar)"
   },
   {
     "objectID": "cv.html#experiência-profissional",
     "href": "cv.html#experiência-profissional",
     "title": "Curriculum Vitae",
     "section": "Experiência profissional",
-    "text": "Experiência profissional\n2023 - atual | freeCodeCamp | Tradutora de tutoriais de análise de dados e programação em Python | Tradução de tutoriais do Inglês (EUA) para o Português (BR).\nmar – ago 2022 | Unesp/DGPA | Professora substituta de Estatística | Docente na disciplina de Quantificação em Geografia para as turmas integral e noturno da Graduação em Geografia.\n2020 – 2022 | Menzori Engenharia e Agrimensura Ltda | Assistente de automação de projetos | Elaboração de plano de rotas viárias urbanas (SIG) e auxílio na formatação de projetos digitais (CAD).\n2018 – 2019 | UFSCar/PPGCAm | Analista ambiental | Contribuição para emissão de parecer técnico referente à atividade minerária.\n2017 – 2018 | UFSCar/PPGCAm | Analista de dados | Coleta, tabulação, tratamento e análise estatística descritiva de dados provenientes de documentos e processos judiciais de órgãos públicos (CETESB, SMA/CFA, MPE, dentre outros)."
+    "text": "Experiência profissional\n2023 - atual | freeCodeCamp | Tradutora de tutoriais de análise de dados e programação em Python | Tradução de tutoriais do Inglês (EUA) para o Português (BR).\nmar – ago 2022 | Unesp/DGPA | Professora substituta de Estatística | Docente na disciplina de Quantificação em Geografia para as turmas integral e noturno da Graduação em Geografia.\n2020 – 2022 | Menzori Engenharia e Agrimensura Ltda | Assistente de automação de projetos | Elaboração de plano de rotas viárias urbanas (SIG) e auxílio na formatação de projetos digitais (CAD).\n2018 – 2019 | UFSCar/PPGCAm | Analista ambiental | Contribuição para emissão de parecer técnico referente à atividade minerária.\n2017 – 2018 | UFSCar/PPGCAm | Analista de dados | Coleta, tabulação, tratamento e análise estatística descritiva de dados provenientes de documentos e processos judiciais de órgãos públicos (CETESB, SMA/CFA, MPE, dentre outros). Elaboração de mapas temáticos."
+  },
+  {
+    "objectID": "cv.html#idiomas",
+    "href": "cv.html#idiomas",
+    "title": "Curriculum Vitae",
+    "section": "Idiomas",
+    "text": "Idiomas\nInglês (avançado)\nEspanhol (básico a intermediário)"
   },
   {
     "objectID": "cv.html#formação-acadêmica",
